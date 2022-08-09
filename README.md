@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 # Education
 
 - Delhi Technical Campus (DTC), Greater Noida, U.P
-  | B.tech (CSE)
+  | Bachelor of Technology (Computer Science Engineering)
 
 # Skills
 
