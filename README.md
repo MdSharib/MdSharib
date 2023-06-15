@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m **[Sharib](https://github.com/MdSharib)**
+- 👋 Hi, I’m **[Md Sharib](https://github.com/MdSharib)**
 - 👀 I’m interested and looking to collaborate on Web Development projects
 - 📫 How to reach me?
   - **[Linkedin](https://www.linkedin.com/in/mdsharib/)**
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 # Skills
 
-ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | Git | REST-Api | Next.js | PHP | MySQL 
+ReactJS | Git | RESTful-API | HTML5 | CSS3
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdSharib&show_icons=true&locale=en" alt="MdSharib" /></p>
 
